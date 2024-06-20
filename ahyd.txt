@@ -215,6 +215,20 @@ CETV-2,http://hwylivehd.centv.cn/cetv2/2020tsytk.m3u8
 CETV-3,http://hwylivehd.centv.cn/cetv3/bjdm.m3u8
 CETV-4,http://hwylivehd.centv.cn/cetv4/zjpd.m3u8
 
+CETV早期教育,http://171.117.201.225:8084/rtp/226.0.2.99:8704
+CGTN,http://110.81.50.91:4022/rtp/239.61.2.19:8108
+CGTN俄语,http://14.126.28.254:5000/rtp/239.253.43.201:5146
+CGTN德语,http://110.81.50.91:4022/rtp/239.61.3.43:9776
+CGTN新闻,http://123.123.167.240:8000/rtp/239.3.1.215:4220
+CGTN法语,http://27.30.64.49:6000/udp/239.69.1.235:11052
+CGTN纪录,http://110.81.50.91:4022/rtp/239.61.4.133:1025
+CGTN英语,http://118.254.201.216:8888/udp/239.76.245.67:1234
+CGTN西语,http://27.19.162.166:4022/udp/239.69.1.234:11046
+CGTN记录,http://114.254.37.122:4022/rtp/239.3.1.216:4220
+CGTN记录片,http://27.30.64.49:15000/udp/239.69.1.233:11040
+CGTN阿语http://14.126.28.254:5000/rtp/239.253.43.200:5146
+
+
 
 百事通//
 CCTV1,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000001000021973
@@ -389,6 +403,16 @@ CGTN阿语,http://ha.hahomes.net:9981/stream/channelid/961747635?ticket=8f8d02cf
 陕西卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/shanxi1stv/1.m3u8
 青海卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/qinghaistv/1.m3u8
 黑龙江卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/hdheilongjiangstv/1.m3u8
+
+陕西卫视,http://118.254.201.247:8888/udp/239.76.254.76:9000
+山西卫视,http://183.185.230.146:8082/rtp/226.0.2.152:9128
+黄河电视台,http://223.10.57.130:8082/udp/239.1.1.2:8002
+康巴卫视,http://118.114.249.231:8888/udp/239.93.0.41:5140
+广东大湾区卫视,http://203.88.42.189:55555/rtp/239.21.0.84:3676
+三沙卫视,http://110.81.50.91:4022/rtp/239.61.3.10:9578
+大湾区卫视,http://121.13.85.231:8000/rtp/239.77.0.215:5146
+海峡卫视,http://110.81.50.91:4022/rtp/239.61.2.151:8894\
+青海卫视,http://121.13.85.231:8000/rtp/239.253.43.125:5146
 
 山西卫视,http://live.cooltv.top/tv/tide.php?id=sxiws2
 山西黄河,http://live.cooltv.top/tv/cutv.php?id=sxhh
