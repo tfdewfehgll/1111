@@ -209,6 +209,12 @@ CETV-4,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031126
 CETV-4,http://php.jdshipin.com:8880/TVOD/hnyd.php?id=00000001000000060000000000000219
 CETV早期教育,http://php.jdshipin.com:8880/cqyx.php?id=zaojiaoHD
 
+CETV早期教育,http://ha.hahomes.net:9981/stream/channelid/1549114187?ticket=5ed2f8467ab00c52390edd485e8437dbd4191924&profile=pass
+CETV-1,http://hwylivehd.centv.cn/cetv1/ypd.m3u8
+CETV-2,http://hwylivehd.centv.cn/cetv2/2020tsytk.m3u8
+CETV-3,http://hwylivehd.centv.cn/cetv3/bjdm.m3u8
+CETV-4,http://hwylivehd.centv.cn/cetv4/zjpd.m3u8
+
 
 百事通//
 CCTV1,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000001000021973
@@ -306,6 +312,53 @@ CCTV17,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000003000000038
 CCTV17,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000005000265015
 CCTV17,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000006000268004
 
+CCTV1,http://ha.hahomes.net:9981/stream/channelid/619037167?ticket=058d80e3a305531dfa85a450f90ed715ba467252&profile=pass
+CCTV1,http://ha.hahomes.net:9981/stream/channelid/2027775990?ticket=9d220f04d8358a7433de1f7079214079bff8ff70&profile=pass
+CCTV1,http://ha.hahomes.net:9981/stream/channelid/1851602762?ticket=1c4ad4070ca0ac29bc35174728234aa9a2fc8dbe&profile=pass
+CCTV1,http://ha.hahomes.net:9981/stream/channelid/1652210161?ticket=5e7e9c17d5a64fa28f799ca62d9979a73baf611f&profile=pass
+CCTV2,http://ha.hahomes.net:9981/stream/channelid/953943315?ticket=a683a46e6f66f0aff9d3584dbc33c3fbcdee05ae&profile=pass
+CCTV2,http://ha.hahomes.net:9981/stream/channelid/374993669?ticket=7761b4acf5caafddc1a30dc43446bb9cfc45624e&profile=pass
+CCTV3,http://ha.hahomes.net:9981/stream/channelid/1939524774?ticket=9732b82b082dfc4068010aa32ceef1f8aa8e1986&profile=pass
+CCTV3,http://ha.hahomes.net:9981/stream/channelid/2021957848?ticket=9d8bb88f4d578bed88bf0c18a21e497c1c46eff8&profile=pass
+CCTV4,http://ha.hahomes.net:9981/stream/channelid/790804939?ticket=936f6b385d2830be0a30cd15f96c130b91771b8d&profile=pass
+CCTV4,http://ha.hahomes.net:9981/stream/channelid/1212563681?ticket=43bd6a854359d3c59a7d7e83765a43807f96171c&profile=pass
+CCTV5,http://ha.hahomes.net:9981/stream/channelid/735748356?ticket=bfd167daa73944db40faad18e9336bfd1598def0&profile=pass
+CCTV5,http://ha.hahomes.net:9981/stream/channelid/1840163107?ticket=922a6c064064d389a2e5628e3e7924ac426f3086&profile=pass
+CCTV5+,http://ha.hahomes.net:9981/stream/channelid/2098093539?ticket=d219ff9e64f8362db63fed541943ac70f5e48ffd&profile=pass
+CCTV6,http://ha.hahomes.net:9981/stream/channelid/1957987454?ticket=9dff738de98748b3e6ef87b5a08b719c40f4acf0&profile=pass
+CCTV6,http://ha.hahomes.net:9981/stream/channelid/2058163856?ticket=22eba2303c2a8bc237a3b2a759c6332fb7b37a83&profile=pass
+CCTV7,http://ha.hahomes.net:9981/stream/channelid/20091975?ticket=f746c8b94b6b014c55db87778f48d76cfb23a1d3&profile=pass
+CCTV7,http://ha.hahomes.net:9981/stream/channelid/2046330371?ticket=7b5a5da935f82d09906ee2e980e1aaff9920fda6&profile=pass
+CCTV8,http://ha.hahomes.net:9981/stream/channelid/905027571?ticket=cdb89a98f1fd46b78760beb4be595bb1a874c812&profile=pass
+CCTV8,http://ha.hahomes.net:9981/stream/channelid/1483874767?ticket=84ae2398e0dd1b7230b7e66ce102167335c63e0a&profile=pass
+CCTV9,http://ha.hahomes.net:9981/stream/channelid/1860291293?ticket=f2b34562ced4bb31ee829721e5c1091a2df87f3a&profile=pass
+CCTV9,http://ha.hahomes.net:9981/stream/channelid/1298350812?ticket=3f1acbc9044c6cb26f02ed1fd7f39c677018d0eb&profile=pass
+CCTV9,http://ha.hahomes.net:9981/stream/channelid/29590902?ticket=2f669fb78fb08c29de8bb60e9aaad5397542c882&profile=pass
+CCTV10,http://ha.hahomes.net:9981/stream/channelid/325943281?ticket=6ef3699d0f64d504faa88625fe8c72457b85d629&profile=pass
+CCTV10,http://ha.hahomes.net:9981/stream/channelid/16400441?ticket=83e50ab1810a4f955b70a5c41aecc8604fbe5dc0&profile=pass
+CCTV10,http://ha.hahomes.net:9981/stream/channelid/1270792238?ticket=d8b8321fdf09d11e7901a54e9b778684d5bc859d&profile=pass
+CCTV11,http://ha.hahomes.net:9981/stream/channelid/197780110?ticket=a75012d9d8b3b12a605ba68d87253ea687f14ab2&profile=pass
+CCTV12,http://ha.hahomes.net:9981/stream/channelid/1350708962?ticket=8ede07b120c463c0f0ce3b21ab0c8289c2daf441&profile=pass
+CCTV12,http://ha.hahomes.net:9981/stream/channelid/282836775?ticket=f6f5fa664164cedb73ab576da6794008639860bd&profile=pass
+CCTV12,http://ha.hahomes.net:9981/stream/channelid/1808478065?ticket=4b8fbcd4fc2944b868db1d6c6a00e07d2f99df96&profile=pass
+CCTV13,http://ha.hahomes.net:9981/stream/channelid/1138744477?ticket=bdcc3a73be4c32bf315c0fc20cbd0d7a44d248b4&profile=pass
+CCTV14,http://ha.hahomes.net:9981/stream/channelid/696797937?ticket=a2b1e6abb0c328b66c772209fc6814ea5dd3700b&profile=pass
+CCTV14,http://ha.hahomes.net:9981/stream/channelid/352221263?ticket=973c161a371cd403ca2ea3f1e84d427f67b41af8&profile=pass
+CCTV14,http://ha.hahomes.net:9981/stream/channelid/1586388572?ticket=33696aca3bb94e73f4c14616fe73dec08a7c728c&profile=pass
+CCTV15,http://ha.hahomes.net:9981/stream/channelid/1268115267?ticket=eb4ab119082da6cdb927f65234744339a8e87dd4&profile=pass
+CCTV16,http://ha.hahomes.net:9981/stream/channelid/1719589157?ticket=94a58805c155b20d6488bf2bdd77a76d526b726c&profile=pass
+CCTV17,http://ha.hahomes.net:9981/stream/channelid/1155754462?ticket=c9b3f344e8c50f1f9580d7d901fb25a3a3e3d23b&profile=pass
+CCTV17,http://ha.hahomes.net:9981/stream/channelid/1552232917?ticket=a9356dec2e15d5ac27617f0752dee6158252b661&profile=pass
+CCTV-4K 4K,http://ha.hahomes.net:9981/stream/channelid/2094369637?ticket=8d258ca988cc6d5d0e8a201b5d149794d9bd8ed2&profile=pass
+CCTV-4K,http://ha.hahomes.net:9981/stream/channelid/1818320669?ticket=aa69d77220d8fab22d7351c7af564a9690bda40b&profile=pass
+CCTV16 4K,http://ha.hahomes.net:9981/stream/channelid/1447049590?ticket=52e0621ffc27f1fb2e75d079713283667e06b7e4&profile=pass
+CGTN,http://ha.hahomes.net:9981/stream/channelid/1743341349?ticket=d03965eec61139f711c225ea23c7cf94fc89730e&profile=pass
+CGTN俄语,http://ha.hahomes.net:9981/stream/channelid/1386411944?ticket=8670ad05d9a90a56aa264654a6b3005dc16a4b3d&profile=pass
+CGTN法语,http://ha.hahomes.net:9981/stream/channelid/1145740702?ticket=0b19aa6ac386ea18419faa9aabcb7c803233a48e&profile=pass
+CGTN英语,http://ha.hahomes.net:9981/stream/channelid/1918283310?ticket=6ee9e368ddc7d7d642fa10d15b8e64863b37b2ae&profile=pass
+CGTN西语,http://ha.hahomes.net:9981/stream/channelid/428352983?ticket=4815789be34a6fb996153a0ffb5e476e3b4cca45&profile=pass
+CGTN阿语,http://ha.hahomes.net:9981/stream/channelid/961747635?ticket=8f8d02cf7536b1880c630586cf53477d91a24a38&profile=pass
+
 卫视频道,#genre#
 东南卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-dongnanstv/1.m3u8
 东方卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-dongfangstv/1.m3u8
@@ -378,6 +431,8 @@ CCTV17,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=100000000600026800
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 山西黄河,http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
 山西黄河,http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
+广东大湾区卫视,http://ha.hahomes.net:9981/stream/channelid/1977749157?ticket=8f3b3952032a9bb395de64bfbfecf7d454129457&profile=pass
+甘肃卫视,http://ha.hahomes.net:9981/stream/channelid/208103885?ticket=be1f9ecdc6cd0a6bbd0295a174fbeb5909c82e5a&profile=pass
 广东大湾区卫视,http://alvin.ergotron.net:8000/udp/239.77.0.215:5146
 广东大湾区卫视,http://alvin.ergotron.net:8000/udp/239.77.0.215:5146
 广东大湾区卫视,http://alvin.ergotron.net:8000/udp/239.77.0.215:5146
@@ -631,6 +686,69 @@ TVB星河国语,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 TVB武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 ViuTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 
+凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+星空卫视,http://117.114.153.26:8180/TV00000000000000000071@HHZT
+TVB 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+TVB PLUS频道,http://php.jdshipin.com:8880/smt.php?id=j2_twn
+TVB 星河频道,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+凤凰中文台,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰资讯台,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+凤凰香港台,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+TVB J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+台视新闻台HD,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/xL0ch83RAK8
+寰宇新闻台,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/6IquAgfvYmc
+寰宇新闻台湾台,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/w87VGpgd90U
+寰宇新聞,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/UcTIv4ZaE5Y
+TVBS NEWS,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/m_dhMSvUCIc
+TVBS新聞,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/2mCSYvcfhtc
+中天新闻,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/oIgbl7t0S_w
+中天新聞2台,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/WPfPjbOLNfE
+民视新闻台,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/ylYJSBUgaMA
+东森新闻51频道,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/LuQ4S-i5zoE
+东森财经新闻,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/WHEPzbFA3hw
+東森購物2,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/Z50JFuNgvB0
+東森購物1,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/ViJ3XiN6Q3M
+東森購物3,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/_Vlzn9qAHD4
+MOMO購物1,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/_pZQ1Lk0xMA
+MOMO購物2,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/xbNWkUyxQGM
+國會頻道,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/4HysYHJ6GkY
+台灣地震監視,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/Owke6Quk7T0
+三立live新闻,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/oZdzzvxTfUY
+三立INEWS,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/CKjSm5ZeehE
+三立新聞,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/FoBfXvlOR6I
+mnews镜新闻,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/5n0y6b0Q25o
+公视新闻网,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/quwqlazU-c8
+华视综艺频道,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/IfKO17h4pVE
+華視戲劇頻道,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/WFXI3igmwDk
+CTS华视新闻,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/wM0g8EoUZ_E
+大愛一臺,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/MIqUplvSRWA
+大愛二臺,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/DTNkEm6jaqQ
+Euronews English,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/pykpO5kQJ98
+GB News,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/8WX6YL9JnLw
+信大電視台,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/ciwFpYofb28
+中视新闻台,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/TCnaIE_SAtM
+中视亚洲台,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/s2waUruqze4
+中视经典综艺,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/ADDSmXoPDY8
+凤凰资讯,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/live/HFib76ySpbU
+凤凰资讯,https://ytb.zapi.us.kg/live?url=https://www.youtube.com/watch?v=HFib76ySpbU
+
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=2
+RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+VIUTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+明珠台2,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+港台RTHK34HD,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+财经资讯台,http://php.jdshipin.com:8880/smt.php?id=tvbcaijing_twn
+凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+
+
 凤凰中文,http://php.jdshipin.com:8880/jydx.php?id=37
 凤凰资讯,http://php.jdshipin.com:8880/jydx.php?id=36
 凤凰香港,http://php.jdshipin.com:8880/jydx.php?id=38
@@ -852,6 +970,72 @@ ViuTV6,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viusix
 江西教育,http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxjy
 
 广东频道,#genre#
+广东体育超清,http://ha.hahomes.net:9981/stream/channelid/1894444362?ticket=22798eae51650d3e3c07546c4db36391d307b2ea&profile=pass
+广东体育高清-测试,http://ha.hahomes.net:9981/stream/channelid/1345184782?ticket=fac974a7ede78d7ed30fbc3022ac97897f505693&profile=pass
+广东公共高清,http://ha.hahomes.net:9981/stream/channelid/940608890?ticket=55f75a99f7e6d3cecd04c77db8d66e2d293340cd&profile=pass
+广东少儿高清,http://ha.hahomes.net:9981/stream/channelid/395351244?ticket=7fe7dc2db4a5a5e934dffb76ba358f1a3ad4a8ea&profile=pass
+广东影视高清,http://ha.hahomes.net:9981/stream/channelid/2878677?ticket=64ac2d13916768f12eba11001b47d2ec4c3a2146&profile=pass
+广东新闻高清,http://ha.hahomes.net:9981/stream/channelid/258865192?ticket=422355d41bfae3ec423cc05878124d734faaed93&profile=pass
+广东珠江超清,http://ha.hahomes.net:9981/stream/channelid/1028461280?ticket=0117b5f34a9584e7015bccbb76bc4948f73a83d2&profile=pass
+广东珠江高清,http://ha.hahomes.net:9981/stream/channelid/523113376?ticket=09ac5be0709d461c64d58f0108e981660864e5e4&profile=pass
+广东综艺 4K,http://ha.hahomes.net:9981/stream/channelid/1755897919?ticket=ff597cb72a2a14e010a12ca0a52b01e74662d244&profile=pass
+广东综艺 4K50p,http://ha.hahomes.net:9981/stream/channelid/255785102?ticket=2a8e0549ce8e20def6f629c26b492d091d97087f&profile=pass
+广东综艺 宽色域AVS2(4k) (AVS2),http://ha.hahomes.net:9981/stream/channelid/971357974?ticket=3db11c3fe232c694ff3ffb710f07f0e059b5fe74&profile=pass
+广东综艺(4k),http://ha.hahomes.net:9981/stream/channelid/753648961?ticket=4e21887a3fa3ec51fa6e666e1e982292a6a64c8f&profile=pass
+广州影视,http://ha.hahomes.net:9981/stream/channelid/573059716?ticket=0dccfeabba5a91db412d1967c529e80f03535fb7&profile=pass
+广州新闻,http://ha.hahomes.net:9981/stream/channelid/2030344536?ticket=f0a79c712ca39cbc2d84b33d37222d8a75085ac7&profile=pass
+广州法治,http://ha.hahomes.net:9981/stream/channelid/405893366?ticket=d99d9f24361900b92db42c48ada9efad169ca537&profile=pass
+广州竞赛,http://ha.hahomes.net:9981/stream/channelid/1830550135?ticket=1705f426cfe485d653d4d7f223ebfc5e82e30ce6&profile=pass
+广州综合,http://ha.hahomes.net:9981/stream/channelid/1078723064?ticket=1b8e12d149d0f3b7a57b78a49e7ba3ea74a323fd&profile=pass
+深圳东部频道,http://ha.hahomes.net:9981/stream/channelid/1555272773?ticket=72da74079ae74baa243f1d913d5486058dc4a5dd&profile=pass
+深圳众创TV,http://ha.hahomes.net:9981/stream/channelid/355919295?ticket=346f813869969df6a55cd010fb601a3fd334a492&profile=pass
+深圳体育健康,http://ha.hahomes.net:9981/stream/channelid/1913370978?ticket=a29a4acdae8158cb046382daf73bf1112da7e23b&profile=pass
+深圳体育健康,http://ha.hahomes.net:9981/stream/channelid/476299579?ticket=298dfd10559006b3e46bd78dcce8f047da27a31a&profile=pass
+深圳公共频道,http://ha.hahomes.net:9981/stream/channelid/1198620169?ticket=ffac9a4d90b4e715a787aa8e0376a5933b256a70&profile=pass
+深圳娱乐频道,http://ha.hahomes.net:9981/stream/channelid/795076431?ticket=18df11d06822960caa9b20bdffe31268827302c1&profile=pass
+深圳宜和购物,http://ha.hahomes.net:9981/stream/channelid/2024403069?ticket=e1e9988ddc22b89a59d9e99de805391f4760d49c&profile=pass
+深圳宝安频道,http://ha.hahomes.net:9981/stream/channelid/1835448012?ticket=a5e2b91bb26f4655b7f8d09f7b885d07e4f98cc3&profile=pass
+深圳少儿频道,http://ha.hahomes.net:9981/stream/channelid/535688090?ticket=40b647b74c05583b0cf87ad3d45a532eb0388a9b&profile=pass
+深圳电视剧频道,http://ha.hahomes.net:9981/stream/channelid/904815870?ticket=b7888b15244963a8c52e98ac0a85517662f4edc1&profile=pass
+深圳电视剧频道,http://ha.hahomes.net:9981/stream/channelid/1872522903?ticket=d07d25eeb3815acfeae87d77c23391d4ee520b4f&profile=pass
+深圳财经生活,http://ha.hahomes.net:9981/stream/channelid/2125811873?ticket=7f8ca14be8577c6c45ddb2c60ae02c452d96714f&profile=pass
+深圳龙岗频道,http://ha.hahomes.net:9981/stream/channelid/2122146100?ticket=1012cc795024c71b857e01c942912022cca3d908&profile=pass
+深圳都市频道,http://ha.hahomes.net:9981/stream/channelid/1856883661?ticket=8c28a9a3e1c3d4b5c1e9966973e13d24d3d1c641&profile=pass
+珠海-1,http://ha.hahomes.net:9981/stream/channelid/500814421?ticket=4fa900cf117128c6fdc9b00573ef778d70891063&profile=pass
+珠海-2,http://ha.hahomes.net:9981/stream/channelid/374070205?ticket=eb6b0d4c69123a5d98e081fc9e31e1da926260b2&profile=pass
+湛江公共,http://ha.hahomes.net:9981/stream/channelid/707249886?ticket=7c47648536f79291ba353eea543bbfb2f8035249&profile=pass
+湛江新闻综合,http://ha.hahomes.net:9981/stream/channelid/664216713?ticket=df91a733aa2ee405c2dbf050c5839cad84c3bb72&profile=pass
+中山公共,http://ha.hahomes.net:9981/stream/channelid/474891200?ticket=68de9ab4aedac9f02539bb53eed75cbd03125b4e&profile=pass
+中山综合,http://ha.hahomes.net:9981/stream/channelid/1192946639?ticket=e30d3ff93b62e3df7e5574610188eff96e960a61&profile=pass
+云浮文旅,http://ha.hahomes.net:9981/stream/channelid/1432150460?ticket=b73b845b38155b8a541afc7bad577bc42a578f0c&profile=pass
+云浮综合,http://ha.hahomes.net:9981/stream/channelid/874558629?ticket=8b002108cb5365ca4a4c4f56bf3689088df0fc4d&profile=pass
+佛山公共,http://ha.hahomes.net:9981/stream/channelid/1815241689?ticket=5807c432cc23ca2b20eba3d4d5978f76bb93b454&profile=pass
+佛山南海,http://ha.hahomes.net:9981/stream/channelid/802473806?ticket=ca82f8876eb0e013a61cf5af403c8af33be77a2a&profile=pass
+佛山影视,http://ha.hahomes.net:9981/stream/channelid/78415091?ticket=1986cd700424526044b36841912ca015888c311f&profile=pass
+佛山综合,http://ha.hahomes.net:9981/stream/channelid/1507084790?ticket=5090f27231f89667675e954d1bb4942a3cf304a6&profile=pass
+佛山顺德,http://ha.hahomes.net:9981/stream/channelid/57435491?ticket=a5120f1a6d7505c72808d0b3453fd387575d6647&profile=pass
+怀旧剧场,http://ha.hahomes.net:9981/stream/channelid/1047996285?ticket=e6d4e6f709e7b294190077b1b567d493be78ae1e&profile=pass
+揭阳公共,http://ha.hahomes.net:9981/stream/channelid/1300386960?ticket=5ab43d760b789121d4f50856d5f27861379cfc7e&profile=pass
+揭阳综合,http://ha.hahomes.net:9981/stream/channelid/719965502?ticket=8314399643cdbb51935d9f774a776ebb15b95eea&profile=pass
+汕头文旅体育,http://ha.hahomes.net:9981/stream/channelid/1411725568?ticket=c420b302f6b12405e4d514ead4c21643ad257987&profile=pass
+汕头经济生活,http://ha.hahomes.net:9981/stream/channelid/114229228?ticket=92fc399cd8abfaf198d2e3f121db94be23e718a2&profile=pass
+汕头综合,http://ha.hahomes.net:9981/stream/channelid/495978806?ticket=cd612ec5f71ab505c20e175288e6acf5ab1d30ca&profile=pass
+汕尾文化生活,http://ha.hahomes.net:9981/stream/channelid/2038266637?ticket=b3dbaa47e722894048b20f95c25d5bebdca0a241&profile=pass
+汕尾新闻综合,http://ha.hahomes.net:9981/stream/channelid/1133310355?ticket=6be34db92dc49eba40cfdfda7e877da6981c99f7&profile=pass
+江门公共,http://ha.hahomes.net:9981/stream/channelid/824538557?ticket=03132bc987e2a2a7d2715d1e955fb30aaf1dfb2b&profile=pass
+江门综合,http://ha.hahomes.net:9981/stream/channelid/1524274441?ticket=7e7e7b247953163e513bc951d26b8e09a950bda4&profile=pass
+河源公共,http://ha.hahomes.net:9981/stream/channelid/526285176?ticket=e0fed90eb632a3bec77090178e8488556df7cc5d&profile=pass
+河源综合,http://ha.hahomes.net:9981/stream/channelid/1838099938?ticket=e22487d00278368de46271c35cee47410091c083&profile=pass
+清远公共,http://ha.hahomes.net:9981/stream/channelid/1061472936?ticket=df25e8f7e69d57bcb847a0485502bd02e1d71758&profile=pass
+清远新闻综合,http://ha.hahomes.net:9981/stream/channelid/1628939202?ticket=b69da8885eb916f4f03f40f1e35de92b6a6eb251&profile=pass
+经济科教,http://ha.hahomes.net:9981/stream/channelid/628505703?ticket=906b5a2157ed7924d00a643a2f40a5218c38eaf5&profile=pass
+肇庆生活服务,http://ha.hahomes.net:9981/stream/channelid/762372213?ticket=fd58a14d36a4537ab31146adbf3d58e72a330d37&profile=pass
+肇庆综合,http://ha.hahomes.net:9981/stream/channelid/94316938?ticket=4921f6c29918aae66b172be76235feee0a48f048&profile=pass
+茂名公共,http://ha.hahomes.net:9981/stream/channelid/982461544?ticket=7fdbadf7dc66b36fb9e518e68b51e2b2fe0ee860&profile=pass
+茂名综合,http://ha.hahomes.net:9981/stream/channelid/1565033563?ticket=79616ccee6e42fa9c6c060a6817b532f92c9ed35&profile=pass
+韶关新闻综合,http://ha.hahomes.net:9981/stream/channelid/696700351?ticket=c40a830a1f332a8b4f6a8aa7d280bd3fe719786f&profile=pass
+韶关绿色生活,http://ha.hahomes.net:9981/stream/channelid/801498243?ticket=74d8037d398d68b3055ee1083908bea73e7d59df&profile=pass
+
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
@@ -1041,6 +1225,13 @@ BRTV国际HD,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.235:8000
 福建综合,http://php.jdshipin.com:8880/bestv.php?id=fjzhhd4m/4000000
 
 湖北频道,#genre#
+湖北经济频道,http://ddns.372101.best:9981/stream/channelid/1084631270?profile=pass
+湖北综合,http://ddns.372101.best:9981/stream/channelid/121003735?profile=pass
+湖北垄上,http://ddns.372101.best:9981/stream/channelid/1609287938?profile=pass
+湖北公共,http://ddns.372101.best:9981/stream/channelid/1793335676?profile=pass
+湖北影视,http://ddns.372101.best:9981/stream/channelid/193481451?profile=pass
+湖北教育,http://ddns.372101.best:9981/stream/channelid/967209729?profile=pass
+湖北生活,http://ddns.372101.best:9981/stream/channelid/1615361765?profile=pass
 湖北经视,http://183.92.4.163:4000/udp/228.0.0.125:6108
 湖北综合,http://183.92.4.163:4000/udp/228.0.0.126:6108
 湖北垄上,http://183.92.4.163:4000/udp/228.0.0.127:6108
@@ -1148,8 +1339,15 @@ BRTV国际HD,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.235:8000
 求索科学,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000011
 求索动物,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000009
 
+求索生活,http://ha.hahomes.net:9981/stream/channelid/1806849088?ticket=4ba20a3cda6e9fc0be113ada6e0606f25e14ed97&profile=pass
+求索纪录,http://ha.hahomes.net:9981/stream/channelid/598476629?ticket=02f55cde3c222dfbece5b2483db4b21fd54f88ca&profile=pass
+
+
 
 特色频道,#genre#
+
+嘉佳卡通,http://ha.hahomes.net:9981/stream/channelid/1992903178?ticket=684ac78f1dca8fd6fbe5bd41356c0e7d88831060&profile=pass
+
 上视七彩戏剧,http://114.89.205.126:4022/udp/239.45.0.16:5140
 上视东方影视,http://114.89.205.126:4022/udp/239.45.3.237:5140
 上视东方财经,http://114.89.205.126:4022/udp/239.45.0.17:5140
