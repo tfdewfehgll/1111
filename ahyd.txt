@@ -464,6 +464,7 @@ CETV-4,https://mobilelive.gxtv.cn/live/cetv4/playlist.m3u8
 农民卫视,http://mail.petzhu.top:7000/rtp/239.254.200.23:6000
 厦门卫视,http://36.248.137.69:60033/tsfile/live/0129_1.m3u8
 吉林延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.flv
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
@@ -1301,12 +1302,25 @@ BRTV国际HD,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.235:8000
 宁夏文旅,https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
 宁夏少儿,https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
 
+宁夏公共,https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8
+宁夏经济,https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
+宁夏少儿,https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
+宁夏影视,https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
+
 云南频道,#genre#
 云南国际,http://tvlive.ynradio.com/live/yunnanguoji/playlist.m3u8
 云南都市,http://tvlive.ynradio.com/live/yunnandushi/playlist.m3u8
 云南娱乐,http://tvlive.ynradio.com/live/yunnanyule/playlist.m3u8
 云南少儿,http://tvlive.ynradio.com/live/yunnanshaoer/playlist.m3u8
 云南都市,http://tvlive.ynradio.com/live/yunnangonggong/playlist.m3u8
+
+云南都市,http://tvlive.ynradio.com/live/yunnandushi/chunks.m3u8
+云南康旅,http://tvlive.ynradio.com/live/yunnangonggong/chunks.m3u8
+云南娱乐,http://tvlive.ynradio.com/live/yunnanyule/chunks.m3u8
+云南少儿,http://tvlive.ynradio.com/live/yunnanshaoer/chunks.m3u8
+云南国际,http://tvlive.ynradio.com/live/yunnanguoji/playlist.m3u8
+云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/playlist.m3u8
+
 
 浙江频道,#genre#
 浙江钱江都市 HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233005/1/index.m3u8?fmt=ts2hls
