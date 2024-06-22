@@ -682,6 +682,10 @@ CETV-4,https://mobilelive.gxtv.cn/live/cetv4/playlist.m3u8
 
 
 港澳台频道,#genre#
+TVB星河http://jxtv1.gdsz.eu.org:8081/hls/135/index.m3u8
+凤凰资讯,http://jxtv1.gdsz.eu.org:8081/hls/36/index.m3u8
+凤凰卫视,http://jxtv1.gdsz.eu.org:8081/hls/37/index.m3u8
+凤凰香港,http://jxtv1.gdsz.eu.org:8081/hls/38/index.m3u8
 凤凰中文,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8
 凤凰资讯,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
@@ -1411,7 +1415,9 @@ BRTV国际HD,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.235:8000
 
 
 特色频道,#genre#
-
+经典电影,http://jxtv1.gdsz.eu.org:8081/hls/61/index.m3u8
+DOX电影,http://jxtv1.gdsz.eu.org:8081/hls/62/index.m3u8
+热播剧场,http://jxtv1.gdsz.eu.org:8081/hls/63/index.m3u8
 嘉佳卡通,http://ha.hahomes.net:9981/stream/channelid/1992903178?ticket=684ac78f1dca8fd6fbe5bd41356c0e7d88831060&profile=pass
 
 上视七彩戏剧,http://58.41.27.144:18888/udp/239.45.0.16:5140
