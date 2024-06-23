@@ -415,6 +415,9 @@ CETV-4,https://mobilelive.gxtv.cn/live/cetv4/playlist.m3u8
 青海卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/qinghaistv/1.m3u8
 黑龙江卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/hdheilongjiangstv/1.m3u8
 
+新疆卫视,http://qingcheng.pro:7890/udp/238.125.3.174:5140
+新疆卫视,http://qingcheng.pro:7890/udp/238.125.7.145:5140
+
 陕西卫视,http://118.254.201.247:8888/udp/239.76.254.76:9000
 山西卫视,http://183.185.230.146:8082/rtp/226.0.2.152:9128
 黄河电视台,http://223.10.57.130:8082/udp/239.1.1.2:8002
@@ -927,6 +930,20 @@ ViuTV6,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viusix
 黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
 黑龙江新闻法治,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
 黑龙江都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
+
+新疆频道,#genre#
+新疆2,http://qingcheng.pro:7890/udp/238.125.3.175:5140
+新疆3,http://qingcheng.pro:7890/udp/238.125.3.176:5140
+新疆4,http://qingcheng.pro:7890/udp/238.125.3.177:5140
+新疆5,http://qingcheng.pro:7890/udp/238.125.3.178:5140
+新疆6,http://qingcheng.pro:7890/udp/238.125.3.179:5140
+新疆7,http://qingcheng.pro:7890/udp/238.125.3.180:5140
+新疆8,http://qingcheng.pro:7890/udp/238.125.3.181:5140
+新疆9,http://qingcheng.pro:7890/udp/238.125.3.182:5140
+新疆10,http://qingcheng.pro:7890/udp/238.125.3.183:5140
+新疆11,http://qingcheng.pro:7890/udp/238.125.3.184:5140
+新疆12少儿,http://qingcheng.pro:7890/udp/238.125.3.185:5140
+新疆教育,http://qingcheng.pro:7890/udp/238.125.2.131:5140
 
 四川频道,#genre#
 四川公共乡村,http://171.213.38.65:8889/rtp/239.93.0.52:5140
