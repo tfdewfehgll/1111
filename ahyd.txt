@@ -233,6 +233,8 @@ CETV早期教育,http://plex.home.yulei.online:9999/udp/226.0.2.99:8704
 黄河卫视,http://live.cooltv.top/tv/cutv.php?id=sxhh
 广东卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/hdguangdongstv/1.m3u8
 广东卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236262/index.m3u8
+大湾区卫视,http://godiptv.dns.navy:1024/tv/play/4/WW52OUR1U1lOTWxQRGE4R0RCbGNOclRPNHFnVjZROEhzaWx0VndUTCtGM2V4T0FRUWJvMDd2bUNiWTRRZlFMNnNZWmxSN1RzT0psdXF5d0UvcHR3SWkvUVRVVE9oVTNheE1nWnd2QjZwelFaMTI2R1NFb2ZnZz09/4N37I4044I357767INID819012J331DN/txt/2$IPV4_源4
+大湾区卫视,http://godiptv.dns.navy:1024/tv/play/4/WW52OUR1U1lOTWxQRGE4R0RCbGNOclRPNHFnVjZROEhUT3VKUFZ2T3FLb1J6YU0wVzNjWGxGWkhoWm13cmdZd2J6WUd1MCtCTkdKVVVMZ1FUQXhQNWdqRFpNbWQzeUU3M2FvY2ZnVUt1SzdRM2swKzhXbmQrdz09/4N37I4044I357767INID819012J331DN/txt/2$IPV4_源3
 大湾区卫视,http://alvin.ergotron.net:8000/rtp/239.77.0.215:5146
 大湾区卫视,http://alvin.ergotron.net:8000/udp/239.77.0.215:5146
 大湾区卫视,http://www.recker.cc:4022/rtp/239.77.0.215:5146
@@ -240,9 +242,13 @@ CETV早期教育,http://plex.home.yulei.online:9999/udp/226.0.2.99:8704
 大湾区卫视,http://[2409:8087:2801:22:100::4f]/wh7f454c46tw1007731023_-1337288569/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236327/index.m3u8?icpid=88888888&RTS=1717811832&from=5&ocs=2_2409:8087:2801:22:100::6f_80&hms_devid=327&online=1717811832&vqe=3
 广西卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/guangxistv/1.m3u8
 广西卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236263/index.m3u8
+康巴卫视,http://godiptv.dns.navy:1024/tv/play/4/R0dIeGRxYWlWZkUyUlRJNW5Obk9hVUU2UGkwYjJGUDl3ZVpmS1JWVENSVDIxZHJ5aUhFcDFObm90blFNVVN1NWR3REVqL21oczhvNE8yVVVNU3p2TDA4Z215c2ZsYjh3RUZFMXZkNHJmNFkxVFM3VkltMGN4dz09/4N37I4044I357767INID819012J331DN/txt/2$IPV4_源1
+康巴卫视,http://godiptv.dns.navy:1024/tv/play/4/R0dIeGRxYWlWZkUyUlRJNW5Obk9hVUU2UGkwYjJGUDlBZlFpR2xqcWpiZlViUkF1VGhnSmhreTM4VFcxbkg0bTZnWldGYzFwRnRQeDhIR1BZeHd0bTQzRnNXVUpTVzhsaXVJUEcwd1Zxa3Z1VGhVVkxNbnd2UT09/4N37I4044I357767INID819012J331DN/txt/2$IPV4_源2
 康巴卫视,http://112.193.1.120:8000/rtp/239.93.0.41:5140
 康巴卫视,http://giwon.ddns.net:5555/udp/239.93.0.41:5140
 康巴卫视,http://124.161.116.6:8081/udp/239.11.0.10:5140
+新疆卫视,http://godiptv.dns.navy:1024/tv/play/4/REJnR052MDYrNVFscExYTkJEcTVMRTY0T1o3ejVhYXdUVUxXVFNNV1hFMURwT3ArVUxQMElzdnI1VW9ybUh5QVZDQ2lYWWRZQko2UHJ0aGV5TFNPWURCSEFyaFJHckdFTlE1MlJNMXQ4cHc9/4N37I4044I357767INID819012J331DN/txt/2$IPV4_源5
+新疆卫视,http://godiptv.dns.navy:1024/tv/play/4/REJnR052MDYrNVFscExYTkJEcTVMRTY0T1o3ejVhYXdUVUxXVFNNV1hFMURwT3ArVUxQMElzdnI1VW9ybUh5QVZDQ2lYWWRZQko2UHJ0aGV5TFNPWURCSEFyaFJHckdFZS9aanl3Qkgwd1E9/4N37I4044I357767INID819012J331DN/txt/2$IPV4_源4
 新疆卫视,http://qingcheng.pro:7890/udp/238.125.3.174:5140
 新疆卫视,http://qingcheng.pro:7890/udp/238.125.7.145:5140
 新疆卫视,http://office.gofaraway.top:888/udp/238.125.3.174:5140
@@ -582,6 +588,16 @@ Viu TV,http://php.jdshipin.com:8880/xsj.php?id=viutv
 ViuTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 ViuTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 ViuTV6,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viusix
+番薯电视,http://godiptv.dns.navy:1024/tv/play/4/aFZFYmk3NWJsbjhYYzcrcHAyUmNIem9yN0g5eFdQVzRUVThubGtzbHZyTnNacFNvYzkyOW5UN00zR25QbGVkUXlTQVhFVkRBRFdxeWJIUG5yc3lxVGhFZmo3ems0MFQ5U0FrR1dYMFRIMXV6UCsybC9IN0M1QT09/4N37I4044I357767INID819012J331DN/txt/2$IPV4_源1
+经典功夫台,http://godiptv.dns.navy:1024/tv/play/4/T3dJVUcxazFxYjM1Y3F6OVNmcWZDR0N3SHhrWDlrd3RjRjhMbG9sR0daT3NQV1orVzh3aHFrRlA4TkQwcTI0UnlIS3hRc0dmdnhVZktoSGdvMy9uTTBvMnpmdjQ4Sjhh/4N37I4044I357767INID819012J331DN/txt/2$IPV4_源1
+经典功夫台,http://godiptv.dns.navy:1024/tv/play/4/T3dJVUcxazFxYjM1Y3F6OVNmcWZDR09INEpKYmJnM2hyS2crVWlSRGN6bHBLd3FRNG5QSGs2eDZHdi82cVR3Y3Q0N0xPU0N6MW5mL1MwQmI0dGtSRGlaS1EzRzBqdUovbVJRUEVLcHcrbHM9/4N37I4044I357767INID819012J331DN/txt/2$IPV4_源2
+TVB功夫,http://godiptv.dns.navy:1024/tv/play/4/VWswTTFnOU5ONDRPQThXWmswUllXbzBuTmRqUjdtSSt1Snc1YU9HN0d0RnJZMktJYmlyai9OT1NZaGN3UXh1bVdaSXByTTJGUlU4PQ==/4N37I4044I357767INID819012J331DN/txt/2$IPV4_源1
+TVB明珠,http://godiptv.dns.navy:1024/tv/play/4/U0JHREdQNTRPdVVlWGMwaEp5Q1dDZ09ici9rSGJXY0x4Tlp1d2JFeFVnSUlvZTVFWEZxRWM0VE5DWEEvUEZsUmk2cDRDa3dPZWdmSzBWalI5VHBOck9FeXoxbUpIY204NGtJRWlpM2VINVU9/4N37I4044I357767INID819012J331DN/txt/2$IPV4_源1
+TVB明珠,http://godiptv.dns.navy:1024/tv/play/4/U0JHREdQNTRPdVVlWGMwaEp5Q1dDZ09ici9rSGJXY0x4Tlp1d2JFeFVnSnRpZUVvUlYyU2tBRGtCYStqcXRXTDhZZFo3TlJ0bWVwdG1kWHRzU2pqNVIxaVBsY0NTWnNa/4N37I4044I357767INID819012J331DN/txt/2$IPV4_源2
+TVB明珠,http://godiptv.dns.navy:1024/tv/play/4/U0JHREdQNTRPdVVlWGMwaEp5Q1dDdjZMaUV6bmF1RXZUMzRGdWZTS1d4WnhTUlhseWlDMHU0SzNFQ2x6TDNmc25VV3FiRG5aR1BOa1JrdGZGY21FWGllaVFSbTFodlh5c1hCQUpKMy9tSHp2bVZ4TS9YcVp5K0ZCUFVSVis1QVF1anBPbmFFalRadXJLM0pLUEVpOHVBPT0=/4N37I4044I357767INID819012J331DN/txt/2$IPV4_源3
+TVB明珠,http://godiptv.dns.navy:1024/tv/play/4/U0JHREdQNTRPdVVlWGMwaEp5Q1dDZzMzT2IxaTVXbmFpUW92NTFlVGkzNU1lcEdENXJyVHoyRER6OXRieVZmUWNjK2R5bGRDd0hodmZJOGwxUGZIQjVaTXJYaWtSWlZ6YnFvMW4vK1YvQTg9/4N37I4044I357767INID819012J331DN/txt/2$IPV4_源4
+TVB财经,http://godiptv.dns.navy:1024/tv/play/4/R0hUTzdmZy9ZUzRPNHMrK3JUbi9OR29FdDgrN2RDYi9jRmhzYm43YjUvVEJEak8vazZCbGdBUmNwbHl3SG1oM0VvQlZjVVd1LzVjN1B4ZVp4V0h3Vll0M01PYVN0SEww/4N37I4044I357767INID819012J331DN/txt/2$IPV4_源1
+华视,http://godiptv.dns.navy:1024/tv/play/4/NjFUeFRHL2JrMjVoZjAxRUxwMzRpZGcvMk1vVmhzUkphRFFiYTl3UHhYZW5oZnJDVEUxMmtBNjN1SzRvK0FlQU85ZXRVeDhvaUI3Yk5RNUpJM2pXWkE9PQ==/4N37I4044I357767INID819012J331DN/txt/2$IPV4_源1
 
 地方频道,#genre#
 安徽经济,http://120.210.193.151:8006/120000001002/XMTah_jjhd/index.m3u8
@@ -1298,8 +1314,8 @@ Y+,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/1/index.m
 百视通纪实4K,https://itv-v6.myxcwh.com:4399/zjdx/200.182:5140
 百视通少儿4K,https://itv-v6.myxcwh.com:4399/zjdx/200.183:5140
 百视通视界4K,https://itv-v6.myxcwh.com:4399/zjdx/200.185:5140
-咪咕电影轮播,https://itv-v6.myxcwh.com:4399/zjyd/36153/index.m3u8
-咪咕电影轮播,https://itv-v6.myxcwh.com:4399/zjyd/36204/index.m3u8
+咪咕电影轮播1,https://itv-v6.myxcwh.com:4399/zjyd/36153/index.m3u8
+咪咕电影轮播2,https://itv-v6.myxcwh.com:4399/zjyd/36204/index.m3u8
 
 上视东方影视,https://tv.myukj.cn/bst.php?id=dfys
 上视新闻综合,https://tv.myukj.cn/bst.php?id=shxwzh
