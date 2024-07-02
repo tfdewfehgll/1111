@@ -1893,3 +1893,10 @@ ihto频道,#genre#
 阿布游戏,https://www.goodiptv.club/douyin/741746135596
 糖糖游戏,https://www.goodiptv.club/douyin/248746393373
 和平精英,https://www.goodiptv.club/douyin/500432165905
+
+鬼吹灯系列,#genre#
+鬼吹灯之龙岭迷窟,http://cfss.cc/cdn/hy/29465863.flv
+鬼吹灯之昆仑神宫,http://cfss.cc/cdn/hy/11601957.flv
+鬼吹灯之南海归墟,http://cfss.cc/cdn/hy/11352883.flv
+鬼吹灯之云南虫谷,http://cfss.cc/cdn/hy/11352898.flv
+鬼吹灯之怒晴湘西,http://cfss.cc/cdn/hy/11602075.flv
