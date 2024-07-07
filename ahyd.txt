@@ -293,6 +293,7 @@ CETV早期教育,http://plex.home.yulei.online:9999/udp/226.0.2.99:8704
 青海卫视,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000002000013359
 陕西卫视,http://php.jdshipin.com:8880/qly.php?id=5498
 农林卫视,http://php.jdshipin.com:8880/qly.php?id=6335
+陕西卫视,http://voicetest.cl3.sc96655.com/live/sxws_4000.m3u8
 陕西卫视,http://58.223.166.35/live3.ngaacdn.sc96655.com/live/sxws_4000.m3u8
 陕西卫视,http://101.204.186.103:8000/udp/239.93.0.143:5140
 陕西卫视,http://tiger81.i234.me:8888/rtp/239.109.205.66:8464
