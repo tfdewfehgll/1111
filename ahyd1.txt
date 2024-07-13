@@ -24,7 +24,7 @@ CCTV-1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/1/ind
 CCTV-2,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228348/1/index.m3u8?fmt=ts2hls
 CCTV-3,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236284/index.m3u8
 CCTV-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229749/1/index.m3u8?fmt=ts2hls
-CCTV-4中文国际欧洲http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236378/index.m3u8
+CCTV-4中文国际欧洲,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236378/index.m3u8
 CCTV-4中文国际美洲,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236335/index.m3u8
 CCTV-5,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232648/1/index.m3u8?fmt=ts2hls
 CCTV-5+,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229684/1/index.m3u8?fmt=ts2hls
@@ -509,7 +509,7 @@ HZTV-1,http://alvin.ergotron.net:8000/udp/239.77.1.232:5146
 HZTV-2,http://alvin.ergotron.net:8000/udp/239.77.1.233:5146
 中华美食,http://alvin.ergotron.net:8000/udp/239.77.1.200:5146
 中国交通,http://www.1328099.xyz:9000/rtp/239.77.1.249:5146
-南国都市 4K http://iptv.awenxin.com:8888/udp/239.253.43.99:5146
+南国都市4K,http://iptv.awenxin.com:8888/udp/239.253.43.99:5146
 南国都市,http://www.1328099.xyz:9000/rtp/239.253.43.99:5146
 南国都市,http://www.1328099.xyz:9000/udp/239.253.43.99:5146
 嘉佳卡通,http://iptv.awenxin.com:8888/udp/239.77.0.179:5146
@@ -518,7 +518,7 @@ HZTV-2,http://alvin.ergotron.net:8000/udp/239.77.1.233:5146
 广东体育,http://alvin.ergotron.net:8000/udp/239.77.0.168:5146
 广东体育,http://iptv.awenxin.com:8888/udp/239.77.0.112:5146
 广东体育,http://www.1328099.xyz:9000/rtp/239.77.0.168:5146
-广东体育http://iptv.awenxin.com:8888/udp/239.77.0.168:5146
+广东体育,http://iptv.awenxin.com:8888/udp/239.77.0.168:5146
 广东公共,http://alvin.ergotron.net:8000/udp/239.77.0.225:5146
 广东公共,http://www.1328099.xyz:9000/rtp/239.77.0.225:5146
 广东卡通,http://alvin.ergotron.net:8000/udp/239.77.0.179:5146
@@ -538,7 +538,7 @@ HZTV-2,http://alvin.ergotron.net:8000/udp/239.77.1.233:5146
 广东珠江,http://alvin.ergotron.net:8000/udp/239.77.0.1:5146
 广东珠江,http://iptv.awenxin.com:8888/udp/239.77.0.1:5146
 广东珠江,http://www.1328099.xyz:9000/rtp/239.77.0.114:5146
-广东珠江http://iptv.awenxin.com:8888/udp/239.77.0.114:5146
+广东珠江,http://iptv.awenxin.com:8888/udp/239.77.0.114:5146
 广东经济,http://alvin.ergotron.net:8000/udp/239.77.0.85:5146
 广东综艺,http://alvin.ergotron.net:8000/udp/239.77.0.252:5146
 广东综艺,http://php.jdshipin.com:8880/chudian.php?id=gdzy
@@ -624,7 +624,7 @@ HZTV-2,http://alvin.ergotron.net:8000/udp/239.77.1.233:5146
 深圳龙岗频道,http://iptv.awenxin.com:8888/udp/239.77.1.223:5146
 深圳龙岗频道,http://www.1328099.xyz:9000/rtp/239.77.1.223:5146
 经济科教,http://iptv.awenxin.com:8888/udp/239.77.0.85:5146
-经济科教http://iptv.awenxin.com:8888/udp/239.77.0.167:5146
+经济科教,http://iptv.awenxin.com:8888/udp/239.77.0.167:5146
 
 BRTV体育,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.243:8000
 BRTV卡酷少儿,http://qnap.yjnhome.com:4000/rtp/239.3.1.189:8000
@@ -743,28 +743,26 @@ BTV国际频道,http://qnap.yjnhome.com:4000/rtp/239.3.1.235:8000
 云南少儿,http://tvlive.ynradio.com/live/yunnanshaoer/playlist.m3u8
 云南都市,http://tvlive.ynradio.com/live/yunnangonggong/playlist.m3u8
 
-浙江钱江都市 ,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233005/1/index.m3u8?fmt=ts2hls
-浙江经济生活 ,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233008/1/index.m3u8?fmt=ts2hls
-浙江科教影视 ,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233002/1/index.m3u8?fmt=ts2hls
-浙江民生休闲 ,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232996/1/index.m3u8?fmt=ts2hls
-浙江公共新闻 ,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233052/1/index.m3u8?fmt=ts2hls
-浙江少儿 ,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233011/1/index.m3u8?fmt=ts2hls
-湖州TV-1 新闻综合 ,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235527/396328931.smil/index.m3u8?fmt=ts2hls
-湖州TV-2 文化娱乐 ,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235529/396328931.smil/index.m3u8?fmt=ts2hls
-湖州TV-3 公共频道 ,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235526/396328931.smil/index.m3u8?fmt=ts2hls
-金华TV-1 新闻综合 ,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234612/396328931.smil/index.m3u8?fmt=ts2hls
-金华TV-2 教育科技 ,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234568/396328931.smil/index.m3u8?fmt=ts2hls
-金华TV-3 公共频道 ,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234615/396328931.smil/index.m3u8?fmt=ts2hls
-嘉兴TV-1 新闻综合 ,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235458/396328931.smil/index.m3u8?fmt=ts2hls
-嘉兴TV-2 文化影视 ,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235447/396328931.smil/index.m3u8?fmt=ts2hls
-嘉兴TV-3 公共频道 ,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235460/396328931.smil/index.m3u8?fmt=ts2hls
-舟山TV-1 新闻综合 ,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235449/396328931.smil/index.m3u8?fmt=ts2hls
-舟山TV-2 公共频道 ,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235445/396328931.smil/index.m3u8?fmt=ts2hls
-丽水TV-1 新闻综合 ,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235528/396328931.smil/index.m3u8?fmt=ts2hls
-丽水TV-2 丽水公共 ,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235525/396328931.smil/index.m3u8?fmt=ts2hls
-丽水TV-3 文化休闲 ,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236237/index.m3u8
-
-
+浙江钱江都市,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233005/1/index.m3u8?fmt=ts2hls
+浙江经济生活,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233008/1/index.m3u8?fmt=ts2hls
+浙江科教影视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233002/1/index.m3u8?fmt=ts2hls
+浙江民生休闲,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232996/1/index.m3u8?fmt=ts2hls
+浙江公共新闻,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233052/1/index.m3u8?fmt=ts2hls
+浙江少儿,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233011/1/index.m3u8?fmt=ts2hls
+湖州TV-1 新闻综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235527/396328931.smil/index.m3u8?fmt=ts2hls
+湖州TV-2 文化娱乐,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235529/396328931.smil/index.m3u8?fmt=ts2hls
+湖州TV-3 公共频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235526/396328931.smil/index.m3u8?fmt=ts2hls
+金华TV-1 新闻综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234612/396328931.smil/index.m3u8?fmt=ts2hls
+金华TV-2 教育科技,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234568/396328931.smil/index.m3u8?fmt=ts2hls
+金华TV-3 公共频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234615/396328931.smil/index.m3u8?fmt=ts2hls
+嘉兴TV-1 新闻综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235458/396328931.smil/index.m3u8?fmt=ts2hls
+嘉兴TV-2 文化影视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235447/396328931.smil/index.m3u8?fmt=ts2hls
+嘉兴TV-3 公共频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235460/396328931.smil/index.m3u8?fmt=ts2hls
+舟山TV-1 新闻综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235449/396328931.smil/index.m3u8?fmt=ts2hls
+舟山TV-2 公共频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235445/396328931.smil/index.m3u8?fmt=ts2hls
+丽水TV-1 新闻综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235528/396328931.smil/index.m3u8?fmt=ts2hls
+丽水TV-2 丽水公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235525/396328931.smil/index.m3u8?fmt=ts2hls
+丽水TV-3 文化休闲,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236237/index.m3u8
 
 江苏国际,https://itv-v6.myxcwh.com:4399/zjdx/202.37:5140
 江苏城市,https://tv.myukj.cn/jiangsu.php?id=jscs
@@ -850,7 +848,7 @@ BTV国际频道,http://qnap.yjnhome.com:4000/rtp/239.3.1.235:8000
 陕西新闻资讯,https://itv-v6.myxcwh.com:4399/sxgd/25500/index.m3u8
 陕西都市青春,https://itv-v6.myxcwh.com:4399/sxgd/25830/index.m3u8
 陕西西部电影,https://itv-v6.myxcwh.com:4399/sxgd/26332/index.m3u8
-陕西生活 ,https://itv-v6.myxcwh.com:4399/sxgd/26331/index.m3u8
+陕西生活,https://itv-v6.myxcwh.com:4399/sxgd/26331/index.m3u8
 陕西影视,https://itv-v6.myxcwh.com:4399/sxgd/26329/index.m3u8
 陕西公共,https://itv-v6.myxcwh.com:4399/sxgd/26334/index.m3u8
 陕西体育休闲,https://itv-v6.myxcwh.com:4399/sxgd/26093/index.m3u8
@@ -861,7 +859,7 @@ BTV国际频道,http://qnap.yjnhome.com:4000/rtp/239.3.1.235:8000
 甘肃文化影视,https://itv-v6.myxcwh.com:4399/gsyd/26287/index.m3u8
 甘肃少儿,https://itv-v6.myxcwh.com:4399/gsyd/26289/index.m3u8
 兰州新闻综合,https://itv-v6.myxcwh.com:4399/gsyd/26242/index.m3u8
-兰州文旅 ,https://itv-v6.myxcwh.com:4399/gsyd/26597/index.m3u8
+兰州文旅,https://itv-v6.myxcwh.com:4399/gsyd/26597/index.m3u8
 
 黑莓频道,#genre#
 哒啵赛事,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/wmyx/1.m3u8
@@ -1004,6 +1002,7 @@ Movie,https://itv-v6.myxcwh.com:4399/zjyd/36157/index.m3u8
 金鹰纪实,http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000011000031203/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031203
 风尚音乐,http://[2409:8087:5e00:24::1e]:6060/000000001000/2000000004000000004/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000004
 
+上视新视觉,http://php.jdshipin.com:8880/bestv.php?id=xsjhd8m/8000000
 上视七彩戏剧,http://php.jdshipin.com:8880/bestv.php?id=qcxjhd8m/8000000
 上视七彩戏剧,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031116
 上视七彩戏剧,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000010
@@ -1097,7 +1096,6 @@ Movie,https://itv-v6.myxcwh.com:4399/zjyd/36157/index.m3u8
 戏曲精选,http://php.jdshipin.com:8880/bestv.php?id=xqjx8m/8000000
 探索纪录,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000007
 新海南,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000003000000011
-新视觉,http://php.jdshipin.com:8880/bestv.php?id=xsjhd8m/8000000
 星光影院,http://php.jdshipin.com:8880/bestv.php?id=xgyy8m/8000000
 欢笑剧场,http://php.jdshipin.com:8880/bestv.php?id=hxjc8m/8000000
 欢笑剧场4K,http://php.jdshipin.com:8880/bestv.php?id=hxjc4k/15000000
