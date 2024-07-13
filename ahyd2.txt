@@ -78,7 +78,7 @@ CETV-1综合教育,https://itv-v6.myxcwh.com:4399/cn/zj/dx/200.169:5140
 CETV-2教育教学,http://hwylivehd.centv.cn/cetv2/2020tsytk.m3u8
 CETV-3北京地面,http://hwylivehd.centv.cn/cetv3/bjdm.m3u8
 CETV-4职业教育,https://itv-v6.myxcwh.com:4399/cn/zj/dx/200.162:5140
-CETV-CECE早期教育,https://tv.myukj.cn/cqyx.php?id=zaojiaoHD
+CETV-CECE早期教育,https://tv.myukj.cn/023/cqyx.php?id=zaojiaoHD
 CCTV-4中文国际欧洲,https://itv-v6.myxcwh.com:4399/cn/zj/yd/36378/index.m3u8
 CCTV-4中文国际美洲,https://itv-v6.myxcwh.com:4399/cn/zj/yd/36335/index.m3u8
 CGTN新闻,https://itv-v6.myxcwh.com:4399/cn/hb/yd/UmaiCHAN63806f4f64099/index.m3u8?m3u8_level=2
