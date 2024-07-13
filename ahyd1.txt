@@ -1359,9 +1359,6 @@ ihto频道,#genre#
 爱玩具,https://itv-v6.myxcwh.com:4399/cn/zj/yd/35626/index.m3u8?fmt=ts2hls
 
 斗鱼频道,#genre#
-神探狄仁杰,https://www.goodiptv.club/douyu/10120371.
-鬼吹灯,https://www.goodiptv.club/douyu/11279861
-胡八一,https://www.goodiptv.club/douyu/11649079
 邵氏影院,https://www.goodiptv.club/douyu/4246519
 周星驰,https://www.goodiptv.club/douyu/122402
 欧美电影,https://www.goodiptv.club/douyu/20415
@@ -1424,8 +1421,9 @@ ihto频道,#genre#
 和平精英,https://www.goodiptv.club/douyin/500432165905
 
 鬼吹灯系列,#genre#
-鬼吹灯之龙岭迷窟,https://www.goodiptv.club/douyin/29465863
-鬼吹灯之昆仑神宫,https://www.goodiptv.club/douyin/11601957
-鬼吹灯之南海归墟,https://www.goodiptv.club/douyin/11352883
-鬼吹灯之云南虫谷,https://www.goodiptv.club/douyin/11352898
-鬼吹灯之怒晴湘西,https://www.goodiptv.club/douyin/11602075
+鬼吹灯之精绝古城,https://www.goodiptv.club/douyu/11279861
+鬼吹灯之龙岭迷窟,https://www.goodiptv.club/huya/29465863
+鬼吹灯之云南虫谷,https://www.goodiptv.club/huya/11352898
+鬼吹灯之昆仑神宫,https://www.goodiptv.club/huya/11601957
+鬼吹灯之南海归墟,https://www.goodiptv.club/huya/11352883
+鬼吹灯之怒晴湘西,https://www.goodiptv.club/huya/11602075
